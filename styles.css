@@ -16,8 +16,13 @@ jumbotron {
   width: 100%;
 }
 
+.img2 {
+max-width: 370px;
+  align-content: center;
+}
+
 .giffy {
-  max-width: 390px;
+  max-width: 370px;
   align-content: center;
 }
 
