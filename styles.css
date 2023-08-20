@@ -149,19 +149,17 @@ background-color:  #0BC5F4;
   }
 
   55% {
-    opacity: 0.3;
-  }
-
-   60% {
     opacity: 1;
   }
 
 
-  90% {
+
+
+  95% {
     opacity: 1;
   }
 
-   91% {
+   100% {
     opacity: 0;
   }
   }
