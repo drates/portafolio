@@ -40,7 +40,8 @@ max-width: 370px;
 .bordi {
   border-style: solid;
   border-color: white;
-  border-radius: 3px;
+  border-radius: 5px;
+  padding: 10px;
 }
 
 #case {
