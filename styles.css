@@ -27,12 +27,12 @@ max-width: 350px;
 }
 
 .imggal {
-height: 200px;
+width: 65%;
   align-content: center;
 }
 
 .imggiffy {
-height: 200px;
+max-width: 250px;
   align-content: center;
 }
 
