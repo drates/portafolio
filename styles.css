@@ -27,7 +27,12 @@ max-width: 370px;
 }
 
 .imggal {
-max-widht: 200px;
+height: 200px;
+  align-content: center;
+}
+
+.imggiffy {
+height: 100px;
 }
 
 #profile {
