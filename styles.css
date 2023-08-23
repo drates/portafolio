@@ -32,7 +32,8 @@ height: 200px;
 }
 
 .imggiffy {
-height: 100px;
+height: 200px;
+  align-content: center;
 }
 
 #profile {
