@@ -26,6 +26,10 @@ max-width: 370px;
   align-content: center;
 }
 
+.imggal {
+max-widht: 200px;
+}
+
 #profile {
   background:  #E512ED;
   padding: 55px;
