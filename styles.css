@@ -38,6 +38,7 @@ max-width: 280px;
 
 #profile {
   padding: 55px;
+  margin-down: 30x;
   color: white;  
   animation: profbk 10s linear infinite;
 }
