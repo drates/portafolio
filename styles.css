@@ -47,14 +47,7 @@ max-width: 280px;
   animation: profbk 10s linear infinite;
 }
 
-@keyframes profbk {
-  0% {background-color: ca10d1;}
-  55% {background-color: ca10d1;}
-  65% {background-color: ff0a8d;}
-  75% {background-color: d02541;}
-  85% {background-color: 0f00b8;}
-  100% {background-color: ca10d1;}
-}
+
 
 
 
@@ -189,3 +182,12 @@ background-color:  #0BC5F4;
     opacity: 0;
   }
   }
+
+@keyframes profbk {
+  0% {background-color: ca10d1;}
+  55% {background-color: ca10d1;}
+  65% {background-color: ff0a8d;}
+  75% {background-color: d02541;}
+  85% {background-color: 0f00b8;}
+  100% {background-color: ca10d1;}
+}
