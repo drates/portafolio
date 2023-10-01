@@ -38,11 +38,7 @@ max-width: 280px;
 
 #profile {
   padding: 55px;
-  color: white;
-}
-
-.proclass {
-  
+  color: white;  
   animation: profbk 10s linear infinite;
 }
 
