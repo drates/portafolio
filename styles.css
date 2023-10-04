@@ -179,6 +179,9 @@ background-color:  #0BC5F4;
   }
   }
 
+.profile-animated {
+  animation: profbk 10s infinite;
+}
 
 @keyframes profbk {
   0% {background-color: ca10d1;}
