@@ -40,7 +40,8 @@ max-width: 280px;
   padding: 55px;
   margin-down: 30x;
   color: white;  
-  background-color: #ca10d1;
+  background: rgb(202,16,209);
+background: linear-gradient(49deg, rgba(202,16,209,1) 0%, rgba(9,93,121,1) 81%, rgba(0,212,255,1) 100%);
 }
 
 
